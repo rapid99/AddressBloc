@@ -1,2 +1,2 @@
 # AddressBloc
-Address Book written in Ruby
+Command Line Address Book written in Ruby
